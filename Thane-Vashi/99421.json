@@ -1,1 +1,12 @@
-"{\"Number\": \"99421\", \"Name\": \"TV 21\", \"Thane\": \"8:41\", \"Airoli\": \"8:49\", \"Rabale\": \"8:52\", \"Ghansoli\": \"8:55\", \"Koparkhairane\": \"8:58\", \"Turbhe\": \"9:02\", \"Sanpada\": NaN, \"Vashi\": NaN}"
+{
+    "Number": "99421",
+    "Name": "TV 21",
+    "Thane": "8:41",
+    "Airoli": "8:49",
+    "Rabale": "8:52",
+    "Ghansoli": "8:55",
+    "Koparkhairane": "8:58",
+    "Turbhe": "9:02",
+    "Sanpada": NaN,
+    "Vashi": NaN
+}
