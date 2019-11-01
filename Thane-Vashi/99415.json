@@ -1,16 +1,14 @@
 {
     "Number": "99415",
     "Name": "TV 15",
-    "StartingStation": "Thane",
-    "StartingTime": "07:53",
-    "Thane": "07:53",
-    "Airoli": "08:01",
-    "Rabale": "08:04",
-    "Ghansoli": "08:07",
-    "Koparkhairane": "08:10",
-    "Turbhe": "08:14",
-    "Sanpada": "08:18",
-    "Vashi": "08:22",
-    "LastStation": "Vashi",
-    "LastStationTime": "08:22"
+    "timetable": {
+        "Thane": "07:53",
+        "Airoli": "08:01",
+        "Rabale": "08:04",
+        "Ghansoli": "08:07",
+        "Koparkhairane": "08:10",
+        "Turbhe": "08:14",
+        "Sanpada": "08:18",
+        "Vashi": "08:22"
+    }
 }

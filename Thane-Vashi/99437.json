@@ -1,16 +1,14 @@
 {
     "Number": "99437",
     "Name": "TV 37",
-    "StartingStation": "Thane",
-    "StartingTime": "10:48",
-    "Thane": "10:48",
-    "Airoli": "10:56",
-    "Rabale": "10:59",
-    "Ghansoli": "11:02",
-    "Koparkhairane": "11:05",
-    "Turbhe": "11:09",
-    "Sanpada": "11:13",
-    "Vashi": "11:17",
-    "LastStation": "Vashi",
-    "LastStationTime": "11:17"
+    "timetable": {
+        "Thane": "10:48",
+        "Airoli": "10:56",
+        "Rabale": "10:59",
+        "Ghansoli": "11:02",
+        "Koparkhairane": "11:05",
+        "Turbhe": "11:09",
+        "Sanpada": "11:13",
+        "Vashi": "11:17"
+    }
 }
