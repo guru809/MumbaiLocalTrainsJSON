@@ -1,6 +1,10 @@
 {
     "Number": "99415",
     "Name": "TV 15",
+    "StartingStation": "Thane",
+    "StartingTime": "07:53",
+    "LastStation": "Vashi",
+    "LastStationTime": "08:22",
     "timetable": {
         "Thane": "07:53",
         "Airoli": "08:01",
