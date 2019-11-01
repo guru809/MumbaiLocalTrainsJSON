@@ -11,6 +11,6 @@
     "Turbhe": "15:02",
     "Sanpada": "15:06",
     "Vashi": "15:10",
-    "EndingStation": "Vashi",
-    "EndingTime": "15:10"
+    "LastStation": "Vashi",
+    "LastStationTime": "15:10"
 }
