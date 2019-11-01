@@ -1,6 +1,8 @@
 {
     "Number": "99495",
     "Name": "TV 95",
+    "StartingStation": "Thane",
+    "StartingTime": "20:05",
     "Thane": "20:05",
     "Airoli": "20:13",
     "Rabale": "20:16",
@@ -8,5 +10,7 @@
     "Koparkhairane": "20:22",
     "Turbhe": "20:26",
     "Sanpada": "20:30",
-    "Vashi": "20:35"
+    "Vashi": "20:35",
+    "EndingStation": "Vashi",
+    "EndingTime": "20:35"
 }
